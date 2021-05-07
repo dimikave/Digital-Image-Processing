@@ -24,6 +24,8 @@ Files:
 - saveasppm.m: function that saves the given quantized image as a .ppm file
 - demo4.m demonstration of the reconstructed, resized, quantized and saved as ppm image with imshow() function
 
+- march.mat: data file with the bayer pattern image
+
 - dip-2021-hw1.pdf: Assignment Description in Greek
 
 - report.pdf: Report of the assignment in Greek
