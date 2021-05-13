@@ -9,7 +9,7 @@ Homework Assignments on Digital Image Processing Course / Aristotle University o
 - Quantize and Dequantize Image
 - Save Image in the .ppm format
 
-## Status of the project
+## Status 
 There are more projects expected to come, this repo is active.
 
 ## Support - Contact
