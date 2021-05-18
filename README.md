@@ -12,6 +12,9 @@ Homework Assignments on Digital Image Processing Course / Aristotle University o
 ## Status 
 There are more projects expected to come, this repo is active.
 
+## Code
+MATLAB R2018a version. Using a different version, you may need to customize some commands.
+
 ## Support - Contact
 Reach out to me:
 - dimitris.kave@gmail.com
