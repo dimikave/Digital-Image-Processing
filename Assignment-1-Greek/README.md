@@ -1,15 +1,15 @@
 ------------
-Assignment 1
+# Assignment 1
 ------------
 
-Description:
+## Description:
 
 - RGB Image Reconstruction from Bayer Pattern Image
 - Resize using Nearest Neighbor and Bilinear Interpolation methods
 - Quantize and Dequantize Image
 - Save Image in the .ppm format
 
-Files:
+## Files:
 
 - bayer2rgb.m                      : function that reconstructs the given Bayer Pattern Image to RGB Image
 - demo1.m                          : demonstration of bayer2rgb.m
