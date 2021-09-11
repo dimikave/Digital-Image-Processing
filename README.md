@@ -10,7 +10,7 @@ Homework Assignments on Digital Image Processing Course / Aristotle University o
 - Save Image in the .ppm format
 
 ## Status 
-There are more projects expected to come, this repo is active.
+As of the completion of the project, it will probably be modified in case of more research in the field, but in any case it will not be maintained. It may hold inaccuracies and could be implemented in more efficient ways regarding speed and recources management.
 
 ## Code
 MATLAB R2018a version. Using a different version, you may need to customize some commands.
