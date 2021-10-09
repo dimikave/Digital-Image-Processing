@@ -9,12 +9,15 @@ Homework Assignments on Digital Image Processing Course / Aristotle University o
 - Quantize and Dequantize Image
 - Save Image in the .ppm format
 
-## Part 1
+## Part 2
 ### Description:
 
 - Representation of Images as graphs
 - Image segmentation using Spectral Clustering
 - Image segmetentation using Normalized-cuts
+
+## Part 3
+### Description:
 
 ## Status 
 As of the completion of the project, it will probably be modified in case of more research in the field, but in any case it will not be maintained. It may hold inaccuracies and could be implemented in more efficient ways regarding speed and recources management.
