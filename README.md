@@ -19,6 +19,11 @@ Homework Assignments on Digital Image Processing Course / Aristotle University o
 ## Part 3
 ### Description:
 
+- Implementation of SIFT (Scale Invarient Feature Extraction) DETECTOR
+- Space Scales and Difference-of-Gaussians (DoGs) calculation.
+- Salient Keypoints detection.
+- Filtering of salient keypoints
+
 ## Status 
 As of the completion of the project, it will probably be modified in case of more research in the field, but in any case it will not be maintained. It may hold inaccuracies and could be implemented in more efficient ways regarding speed and recources management.
 
